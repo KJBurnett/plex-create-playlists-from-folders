@@ -1,6 +1,6 @@
 {
     "PLEX_URL": "https://localhost:32400",
-    "PLEX_TOKEN": "9KJzKo6toUoFMCxPNE5e",
+    "PLEX_TOKEN": "{insert plex api token here}",
     "LIBRARY_NAME": "Audio",
     "MEDIA_TYPE": "movie",
     "SECONDS_TO_WAIT": "3600",
