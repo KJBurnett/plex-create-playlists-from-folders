@@ -1,0 +1,23 @@
+{
+    "PLEX_URL": "https://localhost:32400",
+    "PLEX_TOKEN": "9KJzKo6toUoFMCxPNE5e",
+    "LIBRARY_NAME": "Audio",
+    "MEDIA_TYPE": "movie",
+    "SECONDS_TO_WAIT": "3600",
+    "PYTHONWARNINGS": "ignore:Unverified HTTPS request",
+    "PLAYLIST_FOLDERS": [
+        "J:\\Audio\\Collections (Various Artists)\\VA - NOW That's What I Call Country Vol. 15 (2022)",
+        "J:\\Audio\\Collections (Various Artists)\\VA - Billboard Hot Country Songs (24-April-2021) [Mp3 320kbps Quality Songs]",
+        "J:\\Audio\\Collections (Various Artists)\\VA - Oldies But Goodies Country Music (All Tracks Remastered) (2022)",
+        "J:\\Audio\\Collections (Various Artists)\\VA - NOW Country Classics 80's (2022)",
+        "J:\\Audio\\Collections (Various Artists)\\The Classic Country Jukebox Set",
+        "J:\\Audio\\Collections (Various Artists)\\VA - Billboard Hot Country Songs (17-April-2021)  [Mp3 320kbps Quality Songs]",
+        "J:\\Audio\\Collections (Various Artists)\\VA - Billboard Hot Country Songs (01-May-2021 [Mp3 320kbps Quality Songs]",
+        "J:\\Audio\\Collections (Various Artists)\\Now Thats What I Call Country (2017)",
+        "J:\\Audio\\Collections (Various Artists)\\Billboard Country Charts Top 25 01.04.2017",
+        "J:\\Audio\\Collections (Various Artists)\\Top 500 Country Music Songs",
+        "J:\\Audio\\Collections (Various Artists)\\1001 Greatest 1990's music hit singles [FLAC] [h33t] - Kitlope",
+        "J:\\Audio\\Collections (Various Artists)\\2019 Spotify Mood Booster Playlist Mp3 (320 kbps)",
+        "J:\\Audio\\Collections (Various Artists)\\2019 Spotify Summer Party Playlist Mp3 (320 kbps)"
+    ]
+}
